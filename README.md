@@ -1,9 +1,9 @@
 # Sub-Ringan-Framework 🔍
 Tool for automate bughunting process 🍭.
 
-![Picsart_23-08-08_22-03-01-814](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/a00e8f43-2d20-43ea-922e-c8cc3da42fd7)
+![sub-ringan001](https://github.com/user-attachments/assets/892129e0-e7a1-4258-81b1-5b91bddbf934)
 
-by Dev Vijay CW-129 june 2024
+> ▶️ 𝘣𝘺 𝘋𝘦𝘷 𝘝𝘪𝘫𝘢𝘺 𝘊𝘞-129 𝘫𝘶𝘯𝘦 2024 ◀️
 
 Presenting the Sub-Ringan Framework, a user-friendly bug hunting tool designed to automate the process of identifying vulnerabilities in web applications. This tool is created specifically for bug bounty hunters and cybersecurity experts, By automating much of the work, it allows testers to focus on uncovering critical vulnerabilities and improving web application security.
 > Key Features 💀:
@@ -65,18 +65,20 @@ Install it from: https://github.com/KathanP19/Gxss
 ```
 Install it from: https://github.com/tomnomnom/anew
 ```
-![Picsart_23-08-08_22-08-30-090](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/e048d639-2bb5-4818-a754-64b2165944c6)
+![Sub-Ringan002](https://github.com/user-attachments/assets/df87ed68-fafe-4ef1-8a32-ff49d1e057e3)
+
 
 # Installation ✅ Steps:
 
 ### 1. Clone the Sub-Ringan Framework repository from GitHub:
 
 ```
-git clone https://github.com/DevVj-1/Sub-Ringan-Framework.git
+git clone https://github.com/R4GN4R0K-SEC/Sub-Ringan-Framework.git
 ```
 ### 2. Navigate to the Sub-Ringan Framework directory:
 ```
-cd  Sub-Ringan Framework 
+cd Sub-Ringan-Framework
+cd Sub-ringan 
 chmod +x Sub-Ringan.sh
 sh Sub-Ringan.sh
 ```
@@ -88,17 +90,19 @@ sh Sub-Ringan.sh
 
 > Interface 1 💧
 
- ![kmc_20230810_133924](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/28457274-f181-4d73-be61-1570c5f3e17a)
+ ![Sub-Ringan3](https://github.com/user-attachments/assets/b240fd33-7542-4c02-a073-4ccf1156e82e)
 
 
 > Interface 2 🔥
 
-![kmc_20230810_133827](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/e3d4c193-5830-488b-b9cd-1b6d248d3a3d)
+![Sub-Ringan004](https://github.com/user-attachments/assets/0c463127-d145-4333-be91-70c1b1cc35a2)
+
 
 
 > Interface 3 ☘️
 
-![kmc_20230810_133854](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/e169d552-3c1b-4848-8fce-b9d2b552cc25)
+![Sub-Ringan005](https://github.com/user-attachments/assets/eef0c9a7-5a7e-41e5-bd42-b609bc119ba8)
+
 
 🙌 Special Thanks to the Awesome Tools that Power Sub-Ringan Framework! 🙌
 
