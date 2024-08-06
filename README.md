@@ -1,7 +1,7 @@
 # Sub-Ringan-Framework 🔍
 Tool for automate bughunting process 🍭.
 
-![sub-ringan001](https://github.com/user-attachments/assets/892129e0-e7a1-4258-81b1-5b91bddbf934)
+![Sub-Ringan](https://github.com/user-attachments/assets/15c51336-a1ea-4b52-a665-f666351c197b)
 
 > ▶️ 𝘣𝘺 𝘋𝘦𝘷 𝘝𝘪𝘫𝘢𝘺 𝘊𝘞-129 𝘫𝘶𝘯𝘦 2024 ◀️
 
@@ -25,7 +25,8 @@ Detect SQL injection points and potential weaknesses in your target's database.
 
 > LFI (Local File Inclusion) Search 👁:
 Hunt for LFI vulnerabilities that could lead to unauthorized access to sensitive files.
-
+ 
+![sub-ringan001](https://github.com/user-attachments/assets/892129e0-e7a1-4258-81b1-5b91bddbf934)
 
 # Efficient Organization:
 Sub-Ringan Framework automatically arranges target files in a structured directory, enhancing your workflow and enabling seamless collaboration with fellow bug bounty hunters.
